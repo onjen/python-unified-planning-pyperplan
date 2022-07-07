@@ -10,7 +10,7 @@ Vcs-Git: https://github.com/aiplan4eu/up-pyperplan.git
 
 Package: python3-unified-planning-pyperplan
 Architecture: all
-Depends: ${python3:Depends}, ${misc:Depends}, python3-pyperplan (= 2.1)
+Depends: ${python3:Depends}, ${misc:Depends}, python3-pyperplan (>= 2.1)
 Description: Integration of Pyperplan with the Unified Planning Library (Python 3)
  This is the integrator for the pyperplan planning system, a classical
  planner based on different search heuristics.
