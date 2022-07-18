@@ -1,3 +1,6 @@
+# READ ONLY
+This project moved to Debian Salsa [here](https://salsa.debian.org/rothe/python-unified-planning-pyperplan)
+
 # Integration of Pyperplan with the Unified Planning Library
 
 This is the integrator for the [pyperplan](https://github.com/aibasel/pyperplan) planning system, a classical planner based on different search heuristics. Pyperplan supports action based problems with hierarchical typing.
